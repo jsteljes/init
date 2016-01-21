@@ -16,7 +16,7 @@ public class Main {
         
     }
     
-    // other comments
+    // some comments
     public String returnHello() {
         
         return "Hello World!";
