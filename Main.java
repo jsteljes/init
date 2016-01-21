@@ -12,8 +12,14 @@ public class Main {
     
     private void printHello() {
         
-        System.out.println("Hello World!");
+        System.out.println(returnHello());
         
     }
     
+    public String returnHello() {
+        
+        return "Hello World!";
+        
+    }
+     
 }
